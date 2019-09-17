@@ -11,12 +11,12 @@ current implimentations.
 
 **Requirements**
 
-1.Your application must make use of your current location as part of its computation
-2.Your application must make use of Google Maps to either show your current location or an intended location (or both).
-3.Your application must use location information as part of a calculation/computation.  
+  1.Your application must make use of your current location as part of its computation
+  2.Your application must make use of Google Maps to either show your current location or an intended location (or both).
+  3.Your application must use location information as part of a calculation/computation.  
   For example, it could compute the distance between your current location and an intended location, 
   it could compute speed, or it could compute time to get to an intendedlocation.
-4.Your application must check to see that location services are enabled on the device and respond appropriately if they 
+  4.Your application must check to see that location services are enabled on the device and respond appropriately if they 
 are not. (eg, notify the user and provide a button that brings up the settings for location services.
-5.Location services will not work if you do not apply for an API key from google.  Your application must have a 
+  5.Location services will not work if you do not apply for an API key from google.  Your application must have a 
 valid API key
