@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map App</string>
+    <string name="title_activity_maps">Map Marker App</string>
+    <string name="marker_list">Marker and Distance to Marker</string>
+    <string name="marker_hint">Give the marker a name</string>
+    <string name="enable_gps_settings">Open location settings</string>
+    <string name="info_label">INFO</string>
+    <string name="close">Close</string>
+    <string name="info_text">Tap and hold the map to place a marker. \nWhen prompted name the marker or press cancel to unplace marker. \nTo view a marker press it in the list. \nTo delete a marker press and hold the marker in the list. \n</string>
+</resources>
